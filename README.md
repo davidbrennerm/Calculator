@@ -5,7 +5,10 @@ Este projeto foi executado durante as aulas da Alura. Nestas aulas foram trabalh
 
 🖥️ Tecnologias
 
-JavaScript
+HTML, CSS e JavaScript
 
-🎨 Projetos
+🎨 Projeto
+
 ✓ Finalizado
+
+
